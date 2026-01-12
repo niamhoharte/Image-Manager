@@ -1,4 +1,4 @@
-package part01;
+package part02;
 
 /**
  * An enum representing different genres for images.
